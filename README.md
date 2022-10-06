@@ -2,7 +2,7 @@
 
 This is my personal github account. Thank you for coming by!
 
-I'm a front-end developer. Currently working as a intern at DBC Company. I work mostly with React and js/ts.
+I'm a front-end developer. Currently working as a frontend dev at DBC Company. I work mostly with React Native and dabble with React.
 
 
 My social media:
